@@ -12,16 +12,26 @@
   "dependencies": {
     "@clerk/clerk-react": "^5.22.13",
     "@meshsdk/core": "^1.9.0-beta.32",
+    "@meshsdk/react": "^1.9.0-beta.32",
+    "@rollup/plugin-inject": "^5.0.5",
     "@tailwindcss/vite": "^4.0.6",
     "humanize-duration": "^3.32.1",
+    "qrcode.react": "^4.2.0",
     "quill": "^2.0.3",
     "rc-progress": "^4.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
     "react-router-dom": "^7.1.5",
     "react-simple-star-rating": "^5.1.7",
+    "react-slick": "^0.30.3",
+    "react-to-print": "^3.0.6",
+    "react-toastify": "^11.0.5",
     "react-youtube": "^10.1.0",
-    "uniqid": "^5.4.0"
+    "slick-carousel": "^1.8.1",
+    "sweetalert2": "^11.17.2",
+    "uniqid": "^5.4.0",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
